@@ -1,1 +1,1 @@
-# 370-Project
+# Course-Management-System-Cse370-
